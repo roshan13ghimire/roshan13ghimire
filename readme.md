@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Freelancer.
+- 🔭 I’m currently studying Msc in Computational Science in Laurentian University,Sudbury,Canada.
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/roshan13ghimire?tab=repositories)**
 
